@@ -1,0 +1,5058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+	http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<graph id="G" edgedefault="undirected">
+	<node id="1">
+		<data key="name">1</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.05</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0013962634015954637</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="2">
+		<data key="name">2</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">0.99</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">13.8</data>
+		<data key="angle">0.0010471975511965976</data>
+		<data key="load">0.59 + 0.26im</data>
+		<data key="generation">90.0 + 0.0im</data>
+		<data key="Q_min">-20.0</data>
+		<data key="Q_max">34.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="3">
+		<data key="name">3</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">0.99</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">13.8</data>
+		<data key="angle">0.0008726646259971648</data>
+		<data key="load">3.52 + 1.53im</data>
+		<data key="generation">90.0 + 0.0im</data>
+		<data key="Q_min">-20.0</data>
+		<data key="Q_max">34.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="4">
+		<data key="name">4</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">0.99</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">13.8</data>
+		<data key="angle">-0.0006981317007977319</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">45.0 + 0.0im</data>
+		<data key="Q_min">-10.0</data>
+		<data key="Q_max">17.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="5">
+		<data key="name">5</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.98</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">0.0005235987755982988</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="6">
+		<data key="name">6</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.98</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">0.0005235987755982988</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="7">
+		<data key="name">7</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.06</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0010471975511965976</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="8">
+		<data key="name">8</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">0.99</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">10.5</data>
+		<data key="angle">0.0</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">29.01 + 0.0im</data>
+		<data key="Q_min">-20.0</data>
+		<data key="Q_max">38.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="9">
+		<data key="name">9</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">0.99</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">10.5</data>
+		<data key="angle">0.0</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">29.01 + 0.0im</data>
+		<data key="Q_min">-20.0</data>
+		<data key="Q_max">38.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="10">
+		<data key="name">10</data>
+		<data key="bus_type">3</data>
+		<data key="init_voltage">0.99</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">10.5</data>
+		<data key="angle">0.0</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">69.3 + 0.0im</data>
+		<data key="Q_min">-20.0</data>
+		<data key="Q_max">38.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="11">
+		<data key="name">11</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0012217304763960308</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="12">
+		<data key="name">12</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.06</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0010471975511965976</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="13">
+		<data key="name">13</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">0.99</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">13.8</data>
+		<data key="angle">0.0008726646259971648</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">60.0 + 0.0im</data>
+		<data key="Q_min">-20.0</data>
+		<data key="Q_max">42.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="14">
+		<data key="name">14</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">0.99</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">13.8</data>
+		<data key="angle">0.0008726646259971648</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">60.0 + 0.0im</data>
+		<data key="Q_min">-20.0</data>
+		<data key="Q_max">42.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="15">
+		<data key="name">15</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.06</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0010471975511965976</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="16">
+		<data key="name">16</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">0.99</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.0010471975511965976</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">45.0 + 0.0im</data>
+		<data key="Q_min">-10.0</data>
+		<data key="Q_max">17.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="17">
+		<data key="name">17</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.05</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0015707963267948967</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="18">
+		<data key="name">18</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.06</data>
+		<data key="final_voltage">1.06</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.0</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">60.0 + 0.0im</data>
+		<data key="Q_min">-20.0</data>
+		<data key="Q_max">42.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="19">
+		<data key="name">19</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.06</data>
+		<data key="final_voltage">1.06</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.0</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">60.0 + 0.0im</data>
+		<data key="Q_min">-20.0</data>
+		<data key="Q_max">42.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="20">
+		<data key="name">20</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.05</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0015707963267948967</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="21">
+		<data key="name">21</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.04</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0015707963267948967</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="22">
+		<data key="name">22</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.96</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">-0.00017453292519943296</data>
+		<data key="load">7.33 + 7.1im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="23">
+		<data key="name">23</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.97</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">0.0</data>
+		<data key="load">2.84 + 1.89im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="24">
+		<data key="name">24</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.96</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">-0.00034906585039886593</data>
+		<data key="load">5.61 + 4.73im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="25">
+		<data key="name">25</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0020943951023931952</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="26">
+		<data key="name">26</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0013962634015954637</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="27">
+		<data key="name">27</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.02</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">10.5</data>
+		<data key="angle">-0.00034906585039886593</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">13.0 + 0.0im</data>
+		<data key="Q_min">-5.0</data>
+		<data key="Q_max">11.6</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="28">
+		<data key="name">28</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.02</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">10.5</data>
+		<data key="angle">-0.00034906585039886593</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">13.0 + 0.0im</data>
+		<data key="Q_min">-5.0</data>
+		<data key="Q_max">11.6</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="29">
+		<data key="name">29</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.02</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">10.5</data>
+		<data key="angle">-0.0005235987755982988</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">13.0 + 0.0im</data>
+		<data key="Q_min">-5.0</data>
+		<data key="Q_max">12.6</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="30">
+		<data key="name">30</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">-0.0006981317007977319</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="31">
+		<data key="name">31</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">-0.00034906585039886593</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="32">
+		<data key="name">32</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.03</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">6.6</data>
+		<data key="angle">0.0006981317007977319</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">11.0 + 0.0im</data>
+		<data key="Q_min">-5.0</data>
+		<data key="Q_max">9.9</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="33">
+		<data key="name">33</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.03</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">6.6</data>
+		<data key="angle">0.0006981317007977319</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">11.0 + 0.0im</data>
+		<data key="Q_min">-5.0</data>
+		<data key="Q_max">9.9</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="34">
+		<data key="name">34</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">6.6</data>
+		<data key="angle">-0.00034906585039886593</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="35">
+		<data key="name">35</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">-0.0006981317007977319</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="36">
+		<data key="name">36</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.02</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">6.6</data>
+		<data key="angle">0.00017453292519943296</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">14.6 + 0.0im</data>
+		<data key="Q_min">-2.0</data>
+		<data key="Q_max">3.3</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="37">
+		<data key="name">37</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0013962634015954637</data>
+		<data key="load">2.83 + 1.23im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="38">
+		<data key="name">38</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">-0.0006981317007977319</data>
+		<data key="load">5.85 + 3.53im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="39">
+		<data key="name">39</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0022689280275926286</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="40">
+		<data key="name">40</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0019198621771937623</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="41">
+		<data key="name">41</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0022689280275926286</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="42">
+		<data key="name">42</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.05</data>
+		<data key="final_voltage">1.05</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0005235987755982988</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">40.0 + 0.0im</data>
+		<data key="Q_min">-20.0</data>
+		<data key="Q_max">22.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="43">
+		<data key="name">43</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.05</data>
+		<data key="final_voltage">1.05</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0005235987755982988</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">40.0 + 0.0im</data>
+		<data key="Q_min">-20.0</data>
+		<data key="Q_max">22.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="44">
+		<data key="name">44</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.97</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">-0.0006981317007977319</data>
+		<data key="load">8.26 + 5.12im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="45">
+		<data key="name">45</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.92</data>
+		<data key="base_voltage">33.0</data>
+		<data key="angle">-0.0012217304763960308</data>
+		<data key="load">4.01 + 2.73im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="46">
+		<data key="name">46</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0019198621771937623</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="47">
+		<data key="name">47</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0019198621771937623</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="48">
+		<data key="name">48</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0022689280275926286</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="49">
+		<data key="name">49</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0020943951023931952</data>
+		<data key="load">7.55 + 2.5im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="50">
+		<data key="name">50</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.05</data>
+		<data key="final_voltage">1.05</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0012217304763960308</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">30.0 + 0.0im</data>
+		<data key="Q_min">-20.0</data>
+		<data key="Q_max">20.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="51">
+		<data key="name">51</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.05</data>
+		<data key="final_voltage">1.05</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0012217304763960308</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">30.0 + 0.0im</data>
+		<data key="Q_min">-20.0</data>
+		<data key="Q_max">20.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="52">
+		<data key="name">52</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.05</data>
+		<data key="final_voltage">1.05</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0012217304763960308</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">30.0 + 0.0im</data>
+		<data key="Q_min">-20.0</data>
+		<data key="Q_max">20.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="53">
+		<data key="name">53</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.05</data>
+		<data key="final_voltage">1.05</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0012217304763960308</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">30.0 + 0.0im</data>
+		<data key="Q_min">-20.0</data>
+		<data key="Q_max">20.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="54">
+		<data key="name">54</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">-0.0006981317007977319</data>
+		<data key="load">6.23 + 2.05im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="55">
+		<data key="name">55</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0020943951023931952</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="56">
+		<data key="name">56</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0022689280275926286</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="57">
+		<data key="name">57</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0024434609527920616</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="58">
+		<data key="name">58</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0022689280275926286</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.003</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="59">
+		<data key="name">59</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0022689280275926286</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="60">
+		<data key="name">60</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.98</data>
+		<data key="base_voltage">21.0</data>
+		<data key="angle">-0.00471238898038469</data>
+		<data key="load">200.86 + 68.47im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="61">
+		<data key="name">61</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.002617993877991494</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="62">
+		<data key="name">62</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.002617993877991494</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="63">
+		<data key="name">63</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">33.0</data>
+		<data key="angle">-0.004014257279586958</data>
+		<data key="load">110.14 + 36.81im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="64">
+		<data key="name">64</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0024434609527920616</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="65">
+		<data key="name">65</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">33.0</data>
+		<data key="angle">-0.0024434609527920616</data>
+		<data key="load">50.0 + 12.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="66">
+		<data key="name">66</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0024434609527920616</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="67">
+		<data key="name">67</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">33.0</data>
+		<data key="angle">-0.0024434609527920616</data>
+		<data key="load">80.0 + 20.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="68">
+		<data key="name">68</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">33.0</data>
+		<data key="angle">-0.0024434609527920616</data>
+		<data key="load">56.0 + 14.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="69">
+		<data key="name">69</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0022689280275926286</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="70">
+		<data key="name">70</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">33.0</data>
+		<data key="angle">-0.002967059728390361</data>
+		<data key="load">34.04 + 20.9im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="71">
+		<data key="name">71</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0024434609527920616</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0008</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="72">
+		<data key="name">72</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0020943951023931952</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0043</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="73">
+		<data key="name">73</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0020943951023931952</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="74">
+		<data key="name">74</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.003490658503988659</data>
+		<data key="load">17.33 + 9.28im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="75">
+		<data key="name">75</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0022689280275926286</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="76">
+		<data key="name">76</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0038397243543875246</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0075</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="77">
+		<data key="name">77</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0036651914291880917</data>
+		<data key="load">0.55 + 0.24im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="78">
+		<data key="name">78</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">-0.0041887902047863905</data>
+		<data key="load">7.76 + 3.38im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="79">
+		<data key="name">79</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0041887902047863905</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="80">
+		<data key="name">80</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0038397243543875246</data>
+		<data key="load">125.01 + 31.3im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="81">
+		<data key="name">81</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.004014257279586958</data>
+		<data key="load">379.0 + 92.49im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="82">
+		<data key="name">82</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0024434609527920616</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="83">
+		<data key="name">83</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.06</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.002617993877991494</data>
+		<data key="load">25.98 + 18.84im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="84">
+		<data key="name">84</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0024434609527920616</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="85">
+		<data key="name">85</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.002967059728390361</data>
+		<data key="load">15.83 + 10.92im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="86">
+		<data key="name">86</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0024434609527920616</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="87">
+		<data key="name">87</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0024434609527920616</data>
+		<data key="load">8.34 + 8.96im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="88">
+		<data key="name">88</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0020943951023931952</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="89">
+		<data key="name">89</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.98</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0027925268031909274</data>
+		<data key="load">15.47 + 8.04im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="90">
+		<data key="name">90</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0020943951023931952</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="91">
+		<data key="name">91</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0024434609527920616</data>
+		<data key="load">8.26 + 4.25im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="92">
+		<data key="name">92</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0020943951023931952</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="93">
+		<data key="name">93</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">0.00034906585039886593</data>
+		<data key="load">15.11 + 10.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="94">
+		<data key="name">94</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">0.0010471975511965976</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="95">
+		<data key="name">95</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.0010471975511965976</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="96">
+		<data key="name">96</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">0.0008726646259971648</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="97">
+		<data key="name">97</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">0.0015707963267948967</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="98">
+		<data key="name">98</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.03</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.002967059728390361</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">50.0 + 0.0im</data>
+		<data key="Q_min">-16.0</data>
+		<data key="Q_max">23.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="99">
+		<data key="name">99</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.03</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.002967059728390361</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">50.0 + 0.0im</data>
+		<data key="Q_min">-16.0</data>
+		<data key="Q_max">23.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="100">
+		<data key="name">100</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.0015707963267948967</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="101">
+		<data key="name">101</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.0015707963267948967</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="102">
+		<data key="name">102</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.05</data>
+		<data key="final_voltage">1.05</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.002967059728390361</data>
+		<data key="load">3.78 + 1.25im</data>
+		<data key="generation">60.0 + 0.0im</data>
+		<data key="Q_min">-26.0</data>
+		<data key="Q_max">30.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="103">
+		<data key="name">103</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.98</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.003490658503988659</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="104">
+		<data key="name">104</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">-0.005061454830783556</data>
+		<data key="load">22.13 + 4.05im</data>
+		<data key="generation">4.0 + 0.0im</data>
+		<data key="Q_min">-3.3</data>
+		<data key="Q_max">3.3</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="105">
+		<data key="name">105</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.98</data>
+		<data key="base_voltage">19.0</data>
+		<data key="angle">-0.005585053606381855</data>
+		<data key="load">5.35 + 2.33im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="106">
+		<data key="name">106</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.98</data>
+		<data key="base_voltage">0.41</data>
+		<data key="angle">-0.005585053606381855</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="107">
+		<data key="name">107</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.005061454830783556</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="108">
+		<data key="name">108</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.98</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.005585053606381855</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="109">
+		<data key="name">109</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.002617993877991494</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="110">
+		<data key="name">110</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">19.0</data>
+		<data key="angle">-0.0027925268031909274</data>
+		<data key="load">1.8 + 0.2im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="111">
+		<data key="name">111</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">0.41</data>
+		<data key="angle">-0.0027925268031909274</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="112">
+		<data key="name">112</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0027925268031909274</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="113">
+		<data key="name">113</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.002967059728390361</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="114">
+		<data key="name">114</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.07</data>
+		<data key="base_voltage">33.0</data>
+		<data key="angle">-0.003490658503988659</data>
+		<data key="load">3.0 - 1.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="115">
+		<data key="name">115</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.98</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0036651914291880917</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="116">
+		<data key="name">116</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">-0.004886921905584123</data>
+		<data key="load">20.0 + 2.11im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="117">
+		<data key="name">117</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.03</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">6.3</data>
+		<data key="angle">-0.0041887902047863905</data>
+		<data key="load">4.0 + 1.05im</data>
+		<data key="generation">6.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">2.5</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="118">
+		<data key="name">118</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">33.0</data>
+		<data key="angle">-0.004537856055185257</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="119">
+		<data key="name">119</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.99</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0022689280275926286</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="120">
+		<data key="name">120</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">19.0</data>
+		<data key="angle">-0.002617993877991494</data>
+		<data key="load">2.57 + 1.12im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="121">
+		<data key="name">121</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">0.41</data>
+		<data key="angle">-0.002617993877991494</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="122">
+		<data key="name">122</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.002617993877991494</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="123">
+		<data key="name">123</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.00017453292519943296</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="124">
+		<data key="name">124</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">33.0</data>
+		<data key="angle">-0.0012217304763960308</data>
+		<data key="load">5.0 + 0.92im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="125">
+		<data key="name">125</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">0.0006981317007977319</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="126">
+		<data key="name">126</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.02</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.0017453292519943296</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">38.0 + 0.0im</data>
+		<data key="Q_min">-12.0</data>
+		<data key="Q_max">22.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="127">
+		<data key="name">127</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.02</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.0017453292519943296</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">38.0 + 0.0im</data>
+		<data key="Q_min">-12.0</data>
+		<data key="Q_max">22.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="128">
+		<data key="name">128</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.0017453292519943296</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="129">
+		<data key="name">129</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.0017453292519943296</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="130">
+		<data key="name">130</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">0.0006981317007977319</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="131">
+		<data key="name">131</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.04</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">-0.0005235987755982988</data>
+		<data key="load">9.0 + 1.47im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="132">
+		<data key="name">132</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">0.0008726646259971648</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="133">
+		<data key="name">133</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">0.0006981317007977319</data>
+		<data key="load">13.0 + 1.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="134">
+		<data key="name">134</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.0</data>
+		<data key="load">4.08 + 1.78im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="135">
+		<data key="name">135</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">0.41</data>
+		<data key="angle">0.0</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="136">
+		<data key="name">136</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.0</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="137">
+		<data key="name">137</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">0.0013962634015954637</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="138">
+		<data key="name">138</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.003316125578789226</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">30.0 + 0.0im</data>
+		<data key="Q_min">-16.0</data>
+		<data key="Q_max">18.7</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="139">
+		<data key="name">139</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.003316125578789226</data>
+		<data key="load">2.27 + 0.99im</data>
+		<data key="generation">30.0 + 0.0im</data>
+		<data key="Q_min">-16.0</data>
+		<data key="Q_max">18.7</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="140">
+		<data key="name">140</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">0.41</data>
+		<data key="angle">0.003316125578789226</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="141">
+		<data key="name">141</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.004363323129985824</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="142">
+		<data key="name">142</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.02</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.004363323129985824</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">3.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">1.3</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="143">
+		<data key="name">143</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.06</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">0.0019198621771937623</data>
+		<data key="load">8.08 + 0.5im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="144">
+		<data key="name">144</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.06</data>
+		<data key="final_voltage">1.06</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.0031415926535897933</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">20.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">16.8</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="145">
+		<data key="name">145</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">33.0</data>
+		<data key="angle">0.0019198621771937623</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="146">
+		<data key="name">146</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.06</data>
+		<data key="base_voltage">6.6</data>
+		<data key="angle">0.0019198621771937623</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="147">
+		<data key="name">147</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.06</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">0.0019198621771937623</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="148">
+		<data key="name">148</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.06</data>
+		<data key="base_voltage">0.38</data>
+		<data key="angle">0.0024434609527920616</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="149">
+		<data key="name">149</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.06</data>
+		<data key="base_voltage">0.22</data>
+		<data key="angle">0.0019198621771937623</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="150">
+		<data key="name">150</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.06</data>
+		<data key="base_voltage">0.38</data>
+		<data key="angle">0.0019198621771937623</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="151">
+		<data key="name">151</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.06</data>
+		<data key="base_voltage">0.22</data>
+		<data key="angle">0.0019198621771937623</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="152">
+		<data key="name">152</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.06</data>
+		<data key="base_voltage">6.6</data>
+		<data key="angle">0.0019198621771937623</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="153">
+		<data key="name">153</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.06</data>
+		<data key="base_voltage">6.6</data>
+		<data key="angle">0.0019198621771937623</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="154">
+		<data key="name">154</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.06</data>
+		<data key="base_voltage">0.22</data>
+		<data key="angle">0.0019198621771937623</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="155">
+		<data key="name">155</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0015707963267948967</data>
+		<data key="load">0.01 + 0.01im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="156">
+		<data key="name">156</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">-0.002617993877991494</data>
+		<data key="load">17.38 + 4.4im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="157">
+		<data key="name">157</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0015707963267948967</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="158">
+		<data key="name">158</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0015707963267948967</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="159">
+		<data key="name">159</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">-0.0024434609527920616</data>
+		<data key="load">10.14 + 2.7im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="160">
+		<data key="name">160</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0024434609527920616</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="161">
+		<data key="name">161</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0015707963267948967</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="162">
+		<data key="name">162</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0020943951023931952</data>
+		<data key="load">2.87 + 0.4im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="163">
+		<data key="name">163</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">33.0</data>
+		<data key="angle">-0.0019198621771937623</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="164">
+		<data key="name">164</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">0.41</data>
+		<data key="angle">-0.0020943951023931952</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="165">
+		<data key="name">165</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0019198621771937623</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="166">
+		<data key="name">166</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.02</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0017453292519943296</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="167">
+		<data key="name">167</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0022689280275926286</data>
+		<data key="load">7.26 + 0.4im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="168">
+		<data key="name">168</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">0.41</data>
+		<data key="angle">-0.0022689280275926286</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="169">
+		<data key="name">169</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0022689280275926286</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="170">
+		<data key="name">170</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.04</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0019198621771937623</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="171">
+		<data key="name">171</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">19.0</data>
+		<data key="angle">-0.0022689280275926286</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="172">
+		<data key="name">172</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0015707963267948967</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="173">
+		<data key="name">173</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">19.0</data>
+		<data key="angle">-0.0017453292519943296</data>
+		<data key="load">1.73 + 0.2im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="174">
+		<data key="name">174</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">0.41</data>
+		<data key="angle">-0.0017453292519943296</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="175">
+		<data key="name">175</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0017453292519943296</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="176">
+		<data key="name">176</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.03</data>
+		<data key="base_voltage">132.0</data>
+		<data key="angle">-0.0012217304763960308</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="177">
+		<data key="name">177</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0012217304763960308</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="178">
+		<data key="name">178</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.98</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0017453292519943296</data>
+		<data key="load">5.2 + 3.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="179">
+		<data key="name">179</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">69.0</data>
+		<data key="angle">-0.0013962634015954637</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="180">
+		<data key="name">180</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">69.0</data>
+		<data key="angle">-0.0013962634015954637</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="181">
+		<data key="name">181</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">69.0</data>
+		<data key="angle">-0.0013962634015954637</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="182">
+		<data key="name">182</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">69.0</data>
+		<data key="angle">-0.0013962634015954637</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="183">
+		<data key="name">183</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">69.0</data>
+		<data key="angle">-0.0013962634015954637</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="184">
+		<data key="name">184</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">0.98</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0017453292519943296</data>
+		<data key="load">5.21 + 3.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="185">
+		<data key="name">185</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">66.0</data>
+		<data key="angle">-0.0027925268031909274</data>
+		<data key="load">9.67 + 1.6im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="186">
+		<data key="name">186</data>
+		<data key="bus_type">2</data>
+		<data key="init_voltage">1.01</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">6.6</data>
+		<data key="angle">-0.0020943951023931952</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">6.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">6.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">2000.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="187">
+		<data key="name">187</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.01</data>
+		<data key="base_voltage">11.0</data>
+		<data key="angle">-0.0027925268031909274</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="188">
+		<data key="name">188</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0013962634015954637</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<node id="189">
+		<data key="name">189</data>
+		<data key="bus_type">0</data>
+		<data key="init_voltage">1.0</data>
+		<data key="final_voltage">1.0</data>
+		<data key="base_voltage">220.0</data>
+		<data key="angle">-0.0013962634015954637</data>
+		<data key="load">0.0 + 0.0im</data>
+		<data key="generation">0.0 + 0.0im</data>
+		<data key="Q_min">0.0</data>
+		<data key="Q_max">0.0</data>
+		<data key="P_min">0.0</data>
+		<data key="P_max">0.0</data>
+		<data key="sh_conductance">0.0</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="lat">0.0</data>
+		<data key="lng">0.0</data>
+	</node>
+	<edge source="1" target="7">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">4.800097747445039 - 29.14968450266624im</data>
+		<data key="sh_susceptance">0.04711</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="1" target="17">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">8.771864615933572 - 121.61669925141798im</data>
+		<data key="sh_susceptance">0.02064</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="1" target="21">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">16.360247917032204 - 107.64568919322639im</data>
+		<data key="sh_susceptance">0.0128</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="1" target="46">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">3.55577284224918 - 21.48160899764138im</data>
+		<data key="sh_susceptance">0.06412</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="1" target="71">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.918418169803506 - 12.266253875777632im</data>
+		<data key="sh_susceptance">0.20636</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="5" target="6">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.0 - 10000.0im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="5" target="23">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.6416707575731475 - 3.432452703885302im</data>
+		<data key="sh_susceptance">0.0034</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="6" target="22">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.948766175222169 - 2.0284139422693834im</data>
+		<data key="sh_susceptance">0.0057</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="7" target="12">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">13.77021639895071 - 130.47280038005798im</data>
+		<data key="sh_susceptance">0.0122</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="7" target="15">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">40.75303316537097 - 181.31646111711663im</data>
+		<data key="sh_susceptance">0.00734</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="11" target="172">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.1401830241619655 - 5.122561412901584im</data>
+		<data key="sh_susceptance">0.03803</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="12" target="17">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">5.839469223642568 - 55.72611759121267im</data>
+		<data key="sh_susceptance">0.02631</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="17" target="20">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">7.346671296702177 - 69.59746608409196im</data>
+		<data key="sh_susceptance">0.02098</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="17" target="76">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.9783069025240614 - 9.282154983431766im</data>
+		<data key="sh_susceptance">0.15787</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="17" target="76">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.6817840224970224 - 15.71830832318911im</data>
+		<data key="sh_susceptance">0.22871</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="21" target="25">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">3.2393210383103708 - 21.23554902892354im</data>
+		<data key="sh_susceptance">0.06492</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="22" target="24">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">4.0435513216568095 - 5.240537150106956im</data>
+		<data key="sh_susceptance">0.00156</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="23" target="24">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.2969610856594136 - 2.902472174787867im</data>
+		<data key="sh_susceptance">0.00422</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="24" target="44">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">3.076923076923077 - 4.615384615384615im</data>
+		<data key="sh_susceptance">0.002</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="25" target="57">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">4.541986119690417 - 29.79542894516914im</data>
+		<data key="sh_susceptance">0.0456</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="26" target="40">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">5.69442566402224 - 14.257276838439788im</data>
+		<data key="sh_susceptance">0.01107</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="30" target="35">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">22.98850574712644 - 57.4712643678161im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="31" target="35">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">5.746269733267295 - 14.401738787561127im</data>
+		<data key="sh_susceptance">0.0007</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="35" target="38">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.0 - 10000.0im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="35" target="44">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">2.113760892742617 - 5.468282244477241im</data>
+		<data key="sh_susceptance">0.0024</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="35" target="54">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">3.436094667422206 - 8.620377849848692im</data>
+		<data key="sh_susceptance">0.0011</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="39" target="41">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">46.17268584506051 - 445.666793808845im</data>
+		<data key="sh_susceptance">0.00329</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="39" target="48">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">59.291621157746924 - 555.4688718988922im</data>
+		<data key="sh_susceptance">0.00263</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="39" target="57">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">5.863640568240076 - 55.688907214943185im</data>
+		<data key="sh_susceptance">0.02631</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="40" target="47">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">50.925454393940804 - 299.99722224794215im</data>
+		<data key="sh_susceptance">0.00018</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="41" target="46">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">4.939516534757182 - 29.838338771070234im</data>
+		<data key="sh_susceptance">0.04616</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="41" target="57">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">10.452079061985339 - 63.16334837066434im</data>
+		<data key="sh_susceptance">0.0218</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="41" target="75">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">12.261513561233999 - 116.0756617130152im</data>
+		<data key="sh_susceptance">0.01259</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="49" target="55">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">165.42999635080892 - 464.6636662206544im</data>
+		<data key="sh_susceptance">0.02173</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="49" target="58">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">16.40991731049939 - 46.418008345061054im</data>
+		<data key="sh_susceptance">0.19623</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="55" target="56">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">5.56416474110813 - 25.286782413807067im</data>
+		<data key="sh_susceptance">0.00758</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="56" target="69">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">31.543479819341893 - 89.25370994336512im</data>
+		<data key="sh_susceptance">0.10204</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="57" target="71">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">11.857743562613448 - 74.56696432643457im</data>
+		<data key="sh_susceptance">0.01975</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="57" target="71">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">11.857743562613448 - 74.56696432643457im</data>
+		<data key="sh_susceptance">0.01975</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="57" target="76">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">3.00443837487197 - 18.231478320245817im</data>
+		<data key="sh_susceptance">0.076</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="58" target="59">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">44.70588235294119 - 98.82352941176472im</data>
+		<data key="sh_susceptance">0.0219</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="58" target="69">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">14.831054939386123 - 54.81042042816611im</data>
+		<data key="sh_susceptance">0.0033</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="59" target="82">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">90.25270758122744 - 415.1624548736462im</data>
+		<data key="sh_susceptance">0.0325</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="61" target="71">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">58.30074653394952 - 372.555990046214im</data>
+		<data key="sh_susceptance">0.0046</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="62" target="71">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">58.30074653394952 - 372.555990046214im</data>
+		<data key="sh_susceptance">0.0046</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="64" target="71">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">58.30074653394952 - 372.555990046214im</data>
+		<data key="sh_susceptance">0.0046</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="66" target="71">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">58.30074653394952 - 372.555990046214im</data>
+		<data key="sh_susceptance">0.0046</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="69" target="84">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">74.88883688275216 - 133.3957406974023im</data>
+		<data key="sh_susceptance">0.1054</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="71" target="75">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">4.842828211675619 - 46.66725367614687im</data>
+		<data key="sh_susceptance">0.0321</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="72" target="73">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">49.17299955297274 - 205.63254358515871im</data>
+		<data key="sh_susceptance">0.001</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="72" target="92">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">13.796577914616092 - 52.69402661582405im</data>
+		<data key="sh_susceptance">0.00547</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="72" target="93">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">2.333713676392318 - 9.316406376111626im</data>
+		<data key="sh_susceptance">0.0219</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="76" target="80">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">42.449969678593085 - 242.5712553062462im</data>
+		<data key="sh_susceptance">0.0061</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="76" target="81">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">27.83015257881151 - 262.2991880552985im</data>
+		<data key="sh_susceptance">0.00557</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="76" target="81">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">28.17491565586146 - 267.30048186330106im</data>
+		<data key="sh_susceptance">0.00547</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="77" target="103">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">4.457302406943299 - 20.015810808537836im</data>
+		<data key="sh_susceptance">0.00985</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="82" target="86">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">91.9583372431266 - 196.11522942666795im</data>
+		<data key="sh_susceptance">0.04905</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="88" target="90">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">65.27245567318307 - 109.43690329284925im</data>
+		<data key="sh_susceptance">0.10825</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="90" target="92">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">536.4806866952789 - 2253.2188841201714im</data>
+		<data key="sh_susceptance">0.00591</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="93" target="96">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">7.524045062653617 - 45.48434020926197im</data>
+		<data key="sh_susceptance">0.00392</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="94" target="96">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">20.316930097850538 - 81.1976620117544im</data>
+		<data key="sh_susceptance">0.00251</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="96" target="97">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">4.569515219895184 - 27.62087758989816im</data>
+		<data key="sh_susceptance">0.00646</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="103" target="119">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.164405518314191 - 5.2070848239527034im</data>
+		<data key="sh_susceptance">0.03775</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="109" target="113">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.9105610886500346 - 8.566709397495316im</data>
+		<data key="sh_susceptance">0.0227</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="109" target="119">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">2.650055680945206 - 11.91036261098969im</data>
+		<data key="sh_susceptance">0.01636</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="113" target="115">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.10074229544539 - 4.944359914506449im</data>
+		<data key="sh_susceptance">0.03945</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="119" target="123">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.2297357122277894 - 5.516243051993227im</data>
+		<data key="sh_susceptance">0.0356</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="123" target="125">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">2.696188936937639 - 11.938125459662768im</data>
+		<data key="sh_susceptance">0.0159</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="125" target="130">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">2.8592649489646584 - 12.689045631499964im</data>
+		<data key="sh_susceptance">0.0153</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="130" target="132">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.5675629925842498 - 4.028207165687298im</data>
+		<data key="sh_susceptance">0.0427</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="132" target="137">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.087628068205031 - 4.880574687669473im</data>
+		<data key="sh_susceptance">0.04</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="133" target="143">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.8128511282353387 - 1.2818001580040315im</data>
+		<data key="sh_susceptance">0.005</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="137" target="176">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.7204474292043862 - 3.2542893667978543im</data>
+		<data key="sh_susceptance">0.06014</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="141" target="142">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.0 - 10000.0im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="155" target="157">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">30.213313659547698 - 34.87625635964702im</data>
+		<data key="sh_susceptance">0.10193</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="155" target="158">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">3.1978396679723264 - 13.493229675382931im</data>
+		<data key="sh_susceptance">0.01485</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="155" target="161">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.798941948204659 - 8.056397974857456im</data>
+		<data key="sh_susceptance">0.0242</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="155" target="176">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">5.002136313284781 - 18.797740699242656im</data>
+		<data key="sh_susceptance">0.08516</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="159" target="185">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.8651437184270995 - 1.4439841442108279im</data>
+		<data key="sh_susceptance">0.003</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="161" target="166">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.1850727171311615 - 5.319461745318072im</data>
+		<data key="sh_susceptance">0.0367</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="166" target="170">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.0 + 2.489172101359088im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="170" target="172">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.5262314456483669 - 2.3838344083731227im</data>
+		<data key="sh_susceptance">0.0838</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="177" target="188">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.7817970635658948 - 28.46807271879939im</data>
+		<data key="sh_susceptance">0.0818</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="188" target="189">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.0 - 10000.0im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="1" target="2">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.21986717006039955 - 6.75737292100392im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="1" target="3">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.21986717006039955 - 6.75737292100392im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="1" target="4">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.22852623493699056 - 8.843652242424636im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="5" target="2">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.5446162400951486 - 9.653851500594678im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="6" target="3">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.5446162400951486 - 9.653851500594678im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="7" target="8">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.22395794096287347 - 7.745462301396965im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="7" target="9">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.22395794096287347 - 7.745462301396965im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="7" target="10">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.22395794096287347 - 7.745462301396965im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="7" target="11">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.17109210658011687 - 9.247528360655316im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="12" target="13">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.19716058911157738 - 6.660830713228965im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="12" target="14">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.19716058911157738 - 6.660830713228965im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="15" target="16">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.38663195839356845 - 7.762844789620866im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="17" target="18">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.38632660011959497 - 7.77808264761979im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="17" target="19">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.38632660011959497 - 7.77808264761979im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="25" target="26">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.16244134073189417 - 7.9331817566739025im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="26" target="27">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.6837767096330737 - 9.089328315171114im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="26" target="28">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.6682258603407952 - 9.058172773508558im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="26" target="29">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.5280864616122198 - 10.073325568325581im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="26" target="30">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.4270161657992879 - 8.54764777852091im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="31" target="32">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.24694406716878634 - 8.396098283738734im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="31" target="33">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.24694406716878634 - 8.396098283738734im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="31" target="34">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.035208330204701946 - 8.476585131119773im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="35" target="36">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.004710912165217 - 15.342526635181784im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="35" target="37">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.061881188118811874 - 0.6188118811881188im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="39" target="40">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.39891784468315056 - 19.039260768968546im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="41" target="42">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.38663195839356845 - 7.762844789620866im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="41" target="43">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.38663195839356845 - 7.762844789620866im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="44" target="45">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">4.0 - 8.0im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="49" target="50">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.8852948706066077 - 12.992804604822263im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="49" target="51">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.8852948706066077 - 12.992804604822263im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="49" target="52">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.8852948706066077 - 12.992804604822263im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="49" target="53">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.8852948706066077 - 12.992804604822263im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="57" target="58">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.6029049054535489 - 23.40367223896958im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="61" target="60">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.7529411764705883 - 19.38823529411765im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="62" target="63">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.17769690594147378 - 8.329542466006583im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="64" target="65">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.17769690594147378 - 8.329542466006583im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="66" target="67">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.17769690594147378 - 8.329542466006583im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="66" target="68">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.17769690594147378 - 8.329542466006583im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="69" target="70">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.7484843192535118 - 16.63298487230026im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="71" target="72">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.3054528894454919 - 16.661066697026833im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="73" target="74">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.99009900990099 - 9.900990099009901im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="76" target="77">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.4865022649383224 - 16.432965393472223im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="77" target="78">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.5805873344350772 - 12.379719353298206im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="78" target="79">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.20512820512820507 - 3.6923076923076916im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="82" target="83">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">126.47554806070826 - 261.38279932546374im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="85" target="84">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.8312551953449709 - 16.62510390689942im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="87" target="86">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.8312551953449709 - 16.62510390689942im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="89" target="88">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.6927126627874758 - 13.854253255749516im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="91" target="90">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.6927126627874758 - 13.854253255749516im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="94" target="95">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.42596451092261317 - 8.31150265214855im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="94" target="102">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.42596451092261317 - 8.31150265214855im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="97" target="98">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.31791512613113526 - 10.612953891484068im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="97" target="99">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.31791512613113526 - 10.612953891484068im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="97" target="100">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.2139708539906909 - 7.134399617346752im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="97" target="101">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.2139708539906909 - 7.134399617346752im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="103" target="104">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.26214318035385076 - 8.687742288384104im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="104" target="105">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.6501650165016502 - 16.5016501650165im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="104" target="107">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.8456074536453371 - 13.837212877832787im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="105" target="106">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">2.2002200220022003 - 22.002200220022004im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="105" target="108">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.8456074536453371 - 13.837212877832787im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="109" target="110">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.6491506732382524 - 10.08994825962449im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="110" target="111">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">2.2002200220022003 - 22.002200220022004im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="110" target="112">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.8456074536453371 - 13.837212877832787im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="113" target="114">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.5657260461066254 - 10.87569778364309im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="115" target="116">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.30090431034923215 - 8.199137584012634im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="116" target="118">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.30243101497767033 - 7.50548015155405im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="117" target="118">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.6831887166009879 - 12.57162346023767im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="119" target="120">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.5648699749136332 - 10.100120747097028im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="120" target="121">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">2.4752475247524757 - 24.752475247524753im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="120" target="122">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.8456074536453371 - 13.837212877832787im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="123" target="124">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.3202487841006667 - 7.730266911917775im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="125" target="126">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.2686608259200057 - 9.507155826327475im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="125" target="127">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.2686608259200057 - 9.507155826327475im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="126" target="128">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.16665000166650004 - 16.665000166650003im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="127" target="129">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.16665000166650004 - 16.665000166650003im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="130" target="131">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.24304544100792533 - 6.974770972411805im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="132" target="133">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.3533310978678019 - 8.467019601344278im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="133" target="134">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.2376237623762378 - 12.376237623762377im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="134" target="135">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.6501650165016502 - 16.5016501650165im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="134" target="136">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">33.82429814581348 - 553.4885151133115im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="137" target="138">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.2139708539906909 - 7.134399617346752im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="137" target="139">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.21275481745798755 - 7.114115848523756im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="138" target="140">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">2.2502250225022506 - 22.502250225022504im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="139" target="140">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">2.2502250225022506 - 22.502250225022504im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="139" target="141">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.6357970864711466 - 16.043294477647862im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="143" target="144">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.3563042494718727 - 7.156375984709558im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="143" target="145">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.5895456708398077 - 11.833023821856141im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="143" target="146">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.988708856057637 - 9.88412835442051im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="143" target="147">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.8250825082508251 - 8.25082508250825im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="144" target="148">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.7279214832478016 - 17.279214832478015im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="146" target="152">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">9.900990099009903 - 99.00990099009901im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="147" target="149">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.7279214832478016 - 17.279214832478015im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="148" target="152">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.7279214832478016 - 17.279214832478015im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="149" target="153">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.01042072595553172 - 0.10366451341179994im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="150" target="153">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.0037124072362241843 - 0.03712407236224185im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="151" target="153">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.0037124072362241843 - 0.03712407236224185im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="152" target="153">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">3.473575318510575 - 34.55483780393332im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="152" target="154">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.0037124072362241843 - 0.03712407236224185im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="157" target="156">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.3837691680940994 - 8.247288036892556im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="158" target="159">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.26214318035385076 - 8.687742288384104im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="159" target="160">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">33.82429814581348 - 553.4885151133115im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="161" target="163">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.5147192549610357 - 9.24778928079994im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="163" target="162">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.6501650165016502 - 16.5016501650165im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="162" target="164">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">2.2502250225022506 - 22.502250225022504im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="163" target="165">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.8456074536453371 - 13.837212877832787im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="166" target="167">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.3907089884478883 - 9.268581069567748im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="167" target="168">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">2.2502250225022506 - 22.502250225022504im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="167" target="169">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.8456074536453371 - 13.837212877832787im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="167" target="171">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">1.3010668748373668 - 14.311735623211034im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="172" target="173">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.8114383415478155 - 12.612435324530612im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="173" target="174">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">2.2002200220022003 - 22.002200220022004im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="173" target="175">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.8456074536453371 - 13.837212877832787im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="177" target="176">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.2518528722144526 - 8.325714783948847im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="188" target="178">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.34662045060658586 - 8.31889081455806im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="188" target="179">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.34731128139623796 - 8.31883308733504im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="188" target="180">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.34731128139623796 - 8.31883308733504im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="188" target="181">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.34731128139623796 - 8.31883308733504im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="188" target="182">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.34731128139623796 - 8.31883308733504im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="188" target="183">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.34731128139623796 - 8.31883308733504im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="189" target="184">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.34662045060658586 - 8.31889081455806im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="185" target="186">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.8743169398907102 - 17.04918032786885im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+	<edge source="185" target="187">
+		<data key="line_type">1</data>
+		<data key="line_status">1</data>
+		<data key="admittance">0.8743169398907102 - 17.04918032786885im</data>
+		<data key="sh_susceptance">0.0</data>
+		<data key="s_ratio">1.0 - 0.0im</data>
+		<data key="t_ratio">1.0 + 0.0im</data>
+	</edge>
+</graph>
+</graphml>
