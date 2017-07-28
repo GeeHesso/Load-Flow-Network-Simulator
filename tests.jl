@@ -315,7 +315,8 @@ error_T = chebyshev(state.T,T_ref)
 @test_approx_eq_eps error_T 0. 1e-4
 
 @info("######## Eurogrid without dissipation (NR solver)")
-
+@info("No rights to access eurogrid data.")
+#=
 p_fn = BASE_FOLDER * "/RK/Eurogrid/P_in.csv"
 t_fn = BASE_FOLDER * "/RK/Eurogrid/T_out_1e-10.csv"
 
@@ -366,6 +367,7 @@ error_T = chebyshev(state.T,T_out)
 @info("# iter: ", state.n_iter)
 
 #@test_approx_eq_eps error_T 0. 1e-3
+=#
 
 ###
 # test lattice initialization
